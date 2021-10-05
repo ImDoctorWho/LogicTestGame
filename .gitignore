@@ -83,3 +83,6 @@ crashlytics-build.properties
 ehthumbs.db
 Thumbs.db
 *.meta
+*.cs
+*.meta
+*.meta
